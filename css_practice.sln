@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "css_practice", "css_practice\css_practice.csproj", "{851987DD-B0A6-477E-A383-BDA43F4B148F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{851987DD-B0A6-477E-A383-BDA43F4B148F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{851987DD-B0A6-477E-A383-BDA43F4B148F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{851987DD-B0A6-477E-A383-BDA43F4B148F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{851987DD-B0A6-477E-A383-BDA43F4B148F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29D9FAF0-5D36-4E0C-A6EA-A18598F2E3FF}
+	EndGlobalSection
+EndGlobal

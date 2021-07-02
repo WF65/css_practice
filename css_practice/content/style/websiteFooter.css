@@ -1,0 +1,101 @@
+﻿*{
+    font-family:Calibri;
+}
+
+.upper{
+    display:inline-block;
+    text-align:justify;
+    width:100vh;
+    background-color:#053775;
+}
+
+.upper .address{
+    display:inline-block;
+    color:white;
+    font-size:12px;
+    width:20vh;
+    margin-left:2vh;
+    margin-top:3vh;
+    vertical-align:top;
+}
+
+    .upper .services {
+        display: inline-block;
+        color: white;
+        font-size: 15px;
+        font-weight: bold;
+        width: 20vh;
+        margin-left: 2vh;
+        margin-top: 3vh;
+        vertical-align: top;
+    }
+        .upper .services ul  {
+            list-style:none;
+        }
+
+            .upper .services ul li a {
+                color: white;
+                font-size: 12px;
+                text-decoration: underline;
+            }
+
+        .upper .resources {
+            display: inline-block;
+            color: white;
+            font-size: 15px;
+            font-weight: bold;
+            width: 20vh;
+            margin-left: 2vh;
+            margin-top: 3vh;
+            vertical-align: top;
+        }
+
+    .upper .resources ul {
+        list-style: none;
+    }
+    .upper .resources ul li a {
+        color: white;
+        font-size: 12px;
+        text-decoration:underline;
+    }
+
+    .upper .locations {
+        display: inline-block;
+        color: white;
+        font-size: 15px;
+        font-weight: bold;
+        width: 20vh;
+        margin-left: 2vh;
+        margin-top: 3vh;
+        vertical-align: top;
+    }
+
+    .upper .locations img{
+        width:18vh;
+        height:10vh;
+    }
+
+    .lower{
+        color:white;
+        background-color:#031539;
+        width:100vh;
+        height:3vh;
+    }
+
+    .lower p{
+        font-size:10px;
+        display:inline-block;
+        width:30vh;
+        float:left;
+        position:relative;
+        left:2vh;
+        vertical-align:central;
+    }
+
+        .lower img {
+            height: 1.5vh;
+            display: inline-block;
+            position: relative;
+            left: 50vh;
+            top:1.5vh;
+        }
